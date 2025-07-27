@@ -39,3 +39,5 @@ Design intuitive dashboards or charts that communicate key insights.
 Enable interactivity (e.g., tooltips, filters, real-time updates).
 
 Ensure responsive and accessible UI across d
+output
+![Image](https://github.com/user-attachments/assets/c92ddddb-9430-40b2-a825-3f1470dc06f2)
